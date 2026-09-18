@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Beverly Bargaso",
+    "year": 2,
+    "enrolled": true
+  },
+  {
+    "id": 2,
+    "name": "Berto Bargaso",
+    "year": 1,
+    "course": "BSIT",
+    "grades": [92, 95, 90],
+    "enrolled": true
+  },
+  {
+    "id": 3,
+    "name": "Inri Daclan",
+    "year": 3,
+    "course": "BSIT",
+    "grades": [84, 86, 85],
+    "enrolled": false
+  },
+  {
+    "id": 4,
+    "name": "Karylle Palermo",
+    "year": 2,
+    "course": "BEED",
+    "grades": [92, 94, 93],
+    "enrolled": true
+  }
+]

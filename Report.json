@@ -1,0 +1,31 @@
+{
+  "totalStudents": 4,
+  "overallAverage": 88,
+  "topPerformingStudent": {
+    "id": 1,
+    "name": "Berto Bargaso",
+    "year": 1,
+    "course": "BSIT",
+    "grades": [
+      92,
+      95,
+      90
+    ],
+    "enrolled": true,
+    "averageGrade": 92.33
+  },
+  "breakdownByCourse": [
+    {
+      "course": "BEED",
+      "averageGrade": 89.33
+    },
+    {
+      "course": "BSIT",
+      "averageGrade": 87.33
+    },
+    {
+      "course": "Unassigned",
+      "averageGrade": 0
+    }
+  ]
+}
